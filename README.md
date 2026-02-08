@@ -21,6 +21,7 @@ conceptual structure.
 - Not a source of performance or feasibility claims
 
 ## Contents
+- `CONSTRAINT_REGISTER.md` — Canonical indexed constraint register with owners, cadence, and update policy
 - `IDENTITY.md` — Defines what `t81dev` *is* and what it is not
 - `ASSUMPTIONS.md` — Records governing assumptions and method boundaries
 - `FAILURES_AND_LIMITS.md` — Preserves negative results and invalidated ideas
